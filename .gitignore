@@ -1,0 +1,10 @@
+# 本地曾用 HonKit 时的构建产物（本方案无需）
+_book/
+
+# 若曾安装 npm 依赖
+node_modules/
+
+# 系统与编辑器
+.DS_Store
+*.swp
+*.swo

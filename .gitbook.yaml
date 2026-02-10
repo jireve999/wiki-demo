@@ -1,0 +1,6 @@
+# GitBook 内容配置（Git Sync 时使用）
+# 见 https://docs.gitbook.com/getting-started/git-sync/content-configuration
+root: ./
+structure:
+  readme: README.md
+  summary: SUMMARY.md
